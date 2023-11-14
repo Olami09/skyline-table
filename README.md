@@ -1,7 +1,10 @@
 # skyline-table
-echo "skyline-table" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch add origin https//github.com/Olami09/skyline-table.git
-git push -u origin main
+
+this is practice
+
+As explained in table, all functions were still used 
+
+# Functionality of elements
+
+<table>, <tr>, <td>, and <th> are all used and sever as a funtion in previous table.
+
